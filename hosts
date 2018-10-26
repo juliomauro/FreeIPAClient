@@ -1,0 +1,12 @@
+[FreeIPAServer]
+192.168.172.90
+
+[FreeIPAServer:vars]
+# User with permissions to install and execute free ipa install - SSH
+ansible_ssh_user=root
+
+# Password - SSH
+ansible_ssh_pass=@lC@p0n31899
+
+# Ansible connection type
+ansible_connection=ssh

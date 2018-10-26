@@ -1,0 +1,4 @@
+ipaserver_domain: "trend.cloud"
+ipaadmin_password: "12qwaszx"
+ipaserver: "ipaserver01.trend.cloud"
+ipa_username: "admin"
